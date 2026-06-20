@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
