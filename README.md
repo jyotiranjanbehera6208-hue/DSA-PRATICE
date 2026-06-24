@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +56,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
