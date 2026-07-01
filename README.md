@@ -96,4 +96,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
