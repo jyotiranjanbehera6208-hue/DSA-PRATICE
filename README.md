@@ -66,6 +66,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -109,5 +111,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
