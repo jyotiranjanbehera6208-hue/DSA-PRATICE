@@ -67,6 +67,7 @@
 | [0002-add-two-numbers](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
