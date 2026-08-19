@@ -11,6 +11,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0073-set-matrix-zeroes](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0136-single-number) |
+| [0560-subarray-sum-equals-k](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
