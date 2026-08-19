@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0136-single-number) |
@@ -117,9 +118,14 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0118-pascals-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
