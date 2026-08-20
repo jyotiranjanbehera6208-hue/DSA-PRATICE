@@ -36,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0142-linked-list-cycle-ii) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -106,6 +108,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jyotiranjanbehera6208-hue/DSA-PRATICE/tree/master/0073-set-matrix-zeroes) |
